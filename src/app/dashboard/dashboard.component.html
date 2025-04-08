@@ -1,0 +1,63 @@
+<div class="d-flex flex-column min-vh-100">
+  <div class="mb-2">
+    <mat-toolbar>
+      <button mat-button routerLink="resume">Resume</button>
+      <button mat-button routerLink="projects">Projects</button>
+      <span class="spacer"></span>
+      <section>
+        <mat-button-toggle-group
+          name="favoriteColor"
+          aria-label="Favorite Color"
+          [hideSingleSelectionIndicator]="true"
+          value="en"
+        >
+          <mat-button-toggle value="en" routerLink=""
+            >English</mat-button-toggle
+          >
+          <mat-button-toggle value="es" routerLink=""
+            >Español</mat-button-toggle
+          >
+        </mat-button-toggle-group>
+      </section>
+    </mat-toolbar>
+  </div>
+
+  <router-outlet></router-outlet>
+
+  <footer class="mt-auto">
+    <mat-toolbar class="nav justify-content-center">
+      <span class="nav-item mx-3">
+        <a href="https://github.com/JBareaGallego">
+          <img
+            src="github-mark.svg"
+            alt="Github Logo"
+            width="32px"
+            height="32px"
+          />
+        </a>
+      </span>
+
+      <span class="nav-item mx-3">
+        <a href="https://www.linkedin.com/in/juan-barea-084565207/">
+          <img
+            src="linkedin-svgrepo-com.svg"
+            alt="linkedin Logo Logo"
+            width="32px"
+            height="32px"
+          />
+        </a>
+      </span>
+
+      <span class="nav-item mx-3">
+        <a href="mailto:jbarea282@gmail.com">
+          <img
+            src="email.svg"
+            alt="linkedin Logo Logo"
+            width="32px"
+            height="32px"
+          />
+        </a>
+      </span>
+    </mat-toolbar>
+  </footer>
+</div>

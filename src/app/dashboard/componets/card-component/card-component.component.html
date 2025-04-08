@@ -1,0 +1,17 @@
+<mat-expansion-panel >
+  <mat-expansion-panel-header>
+    <mat-panel-title> {{ projectData.title }} </mat-panel-title>
+    <mat-panel-description>
+      {{ projectData.desc }}
+    </mat-panel-description>
+  </mat-expansion-panel-header>
+
+  <p> <a [href]="projectData.githubLink ">
+    <img src="github-mark.svg" alt="Github Logo" width="24px" height="24px">
+      Github link</a></p>
+   @if (!!projectData.pageLink) {
+     <p><a [href]="projectData.pageLink">Page Link</a></p>
+   }
+</mat-expansion-panel>
+
+
