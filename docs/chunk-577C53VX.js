@@ -1,1 +1,0 @@
-import{Ab as a,Wa as o,nb as s,ob as i}from"./chunk-QFXWXW3Q.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-english"]],decls:2,vars:0,template:function(e,l){e&1&&(s(0,"p"),a(1,"english works!"),i())},encapsulation:2})};export{n as default};

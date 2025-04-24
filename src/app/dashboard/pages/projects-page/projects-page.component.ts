@@ -12,46 +12,46 @@ export default class ProjectsPageComponent {
 
   projects = signal<projectCardData[]>([
     {
-      title: 'Maps App',
-      desc: 'A small application showcasing MapLibre',
-      githubLink: 'https://github.com/JBareaGallego/MapsApp',
-      pageLink: 'https://jbareagallego.github.io/MapsApp/'
+      title: $localize`map`,
+      desc: $localize`A small application showcasing MapLibre`,
+      githubLink: `https://github.com/JBareaGallego/MapsApp`,
+      pageLink: `https://jbareagallego.github.io/MapsApp/`
     },
     {
-      title: 'AuthApp Frontend',
-      desc: 'Frontend for an application involving authentication',
-      githubLink: 'https://github.com/JBareaGallego/AuthApp-FrontEnd',
+      title: $localize`AuthApp Frontend`,
+      desc: $localize`Frontend for an application involving authentication`,
+      githubLink: `https://github.com/JBareaGallego/AuthApp-FrontEnd`,
     },
     {
-      title: 'AuthApp Nest Backend',
-      desc: 'The backend for the AuthApp made on Nest',
-      githubLink: 'https://github.com/JBareaGallego/AuthApp-Nest-Backend',
+      title: $localize`AuthApp Nest Backend`,
+      desc: $localize`The backend for the AuthApp made on Nest`,
+      githubLink: `https://github.com/JBareaGallego/AuthApp-Nest-Backend`,
     },
     {
-      title: 'Heroes App',
-      desc: 'Application using a small dabatabase to show information for a wiki',
-      githubLink: 'https://github.com/JBareaGallego/06-heroesApp',
+      title: $localize`Heroes App`,
+      desc: $localize`Application using a small dabatabase to show information for a wiki`,
+      githubLink: `https://github.com/JBareaGallego/06-heroesApp`,
     },
     {
-      title: 'Counties App',
-      desc: 'A small application for searching and shorting countries arround the world using Restcountries API',
-      githubLink: 'https://github.com/JBareaGallego/Angular-CountryApp',
-      pageLink: 'https://jbareagallego.github.io/Angular-CountryApp/'
+      title: $localize`Counties App`,
+      desc: $localize`A small application for searching and shorting countries arround the world using Restcountries API`,
+      githubLink: `https://github.com/JBareaGallego/Angular-CountryApp`,
+      pageLink: `https://jbareagallego.github.io/Angular-CountryApp/`
     },
     {
-      title: 'Signals App',
-      desc: 'An app made while learning the use of signals and directives',
-      githubLink: 'https://github.com/JBareaGallego/Directives-and-Signals',
+      title: $localize`Signals App`,
+      desc: $localize`An app made while learning the use of signals and directives`,
+      githubLink: `https://github.com/JBareaGallego/Directives-and-Signals`,
     },
     {
-      title: 'Forms App',
-      desc: 'An app made while learning the use of forms in Angular',
-      githubLink: 'https://github.com/JBareaGallego/07-formApp',
+      title: $localize`Forms App`,
+      desc: $localize`An app made while learning the use of forms in Angular`,
+      githubLink: `https://github.com/JBareaGallego/07-formApp`,
     },
     {
-      title: 'Pipes App',
-      desc: 'An app made while learning the use of pipes in Angular',
-      githubLink: 'https://github.com/JBareaGallego/05-pipesApp',
+      title: $localize`Pipes App`,
+      desc: $localize`An app made while learning the use of pipes in Angular`,
+      githubLink: `https://github.com/JBareaGallego/05-pipesApp`,
     },
   ])
 

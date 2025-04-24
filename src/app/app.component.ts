@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Title } from '@angular/platform-browser';
 import { RouterOutlet } from '@angular/router';
 
 @Component({
@@ -9,4 +10,8 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'personal-Project';
+
+  constructor(private titleService: Title){
+    this.titleService.setTitle($localize`${this.title}`)
+  }
 }

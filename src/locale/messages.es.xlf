@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1737753151350322492" datatype="html">
+        <source><x id="PH" equiv-text="this.title"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7182974689040833178" datatype="html">
+        <source>Resume</source>
+        <target>Curriculum</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/dashboard.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7091571651222742304" datatype="html">
+        <source>Projects</source>
+        <target>Projectos</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/dashboard.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3368470158350136276" datatype="html">
+        <source>Juan Barea Gallego</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="128519430630834159" datatype="html">
+        <source>Junior Developer</source>
+        <target>Desarrollador Junior</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+        <target>Contacto</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5785641270451330712" datatype="html">
+        <source><x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon class=&quot;align-middle&quot;&gt;"/> contact_phone<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/> +34-622-440-285 </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3648305859056380930" datatype="html">
+        <source><x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon class=&quot;align-middle&quot;&gt;"/> language<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/> English / Spanish </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">25,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8020402390620783618" datatype="html">
+        <source>Education</source>
+        <target>Educación</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3762499580690816083" datatype="html">
+        <source>Secondary Education</source>
+        <target>Educación Secundaria</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3190953066194165331" datatype="html">
+        <source>Game Design and Developement Degree </source>
+        <target>Grado de Diseño y Desarrollo de Videojuegos</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">40,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6233034574103505863" datatype="html">
+        <source>C2 English Certificate</source>
+        <target>Certificado de Ingles C2</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">45,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8014943094070539136" datatype="html">
+        <source>Cambridge University</source>
+        <target>Universidad de Cambridge</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">48,50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7254349342330026780" datatype="html">
+        <source>Online Courses</source>
+        <target>Cursos Online</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">52,53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8946821853543179256" datatype="html">
+        <source>Angular: Zero to Expert</source>
+        <target>Angular de Cero a Experto</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2992581091013761202" datatype="html">
+        <source>Kreativstorm Hands-on Training Program</source>
+        <target>Kreativstorm curso de entrenamiento práctico para desarrolladores</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">55,56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5987784750786610367" datatype="html">
+        <source>.NET Core MVC - The Complete Guide 2024</source>
+        <target>.Net Core MVC - Guia completa 2024</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="90100395445481759" datatype="html">
+        <source>Microsoft Azure: From Zero to Hero - The Complete Guide</source>
+        <target>Microsoft Azure: de Cero a Héroe</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">57,58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6473899209218679114" datatype="html">
+        <source>The Complete SQL Bootcamp</source>
+        <target>El curso de entrenamiento completo de SQL</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8568776016535553319" datatype="html">
+        <source>Docker training course</source>
+        <target>Curso de Docker</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">59,60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2538366203307697597" datatype="html">
+        <source>Git training course</source>
+        <target>Curso de Git</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">60,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3909556666774314066" datatype="html">
+        <source>Unreal Engine 5 C++ Developer</source>
+        <target>Desarrollo en Unreal Engine 5 C++ </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">61,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3510443523718900798" datatype="html">
+        <source>ChatGPT Prompt Engineering for Developers</source>
+        <target>Ingeniería de mensajes rápidos de ChatGPT para desarrolladores</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">62,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4915431133669985304" datatype="html">
+        <source>Profile</source>
+        <target>Perfil</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">68,69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8763512287257422131" datatype="html">
+        <source> As a junior developer, I am a highly motivated and dedicated individual with a strong passion for technology and problem-solving. I have a solid foundation in computer science principles and web development, and am constantly learning and growing my skills through online courses. I am a quick learner and thrive in team environments, bringing a sharp mind and a strong work ethic to every project I am a part of. I have reached the final step of selection process of 4 multinational companies and I am excited to continue my professional development and make meaningful contributions as a member of your team. </source>
+        <target>Como desarrollador júnior, soy una persona altamente motivada y dedicada, con una gran pasión por la tecnología y la resolución de problemas. Cuento con sólidos conocimientos de informática y desarrollo web, y estoy en constante aprendizaje y desarrollo de mis habilidades a través de cursos en línea. Aprendo con rapidez y me desenvuelvo en equipos, aportando una mente aguda y una sólida ética de trabajo a cada proyecto en el que participo. He llegado a la fase final del proceso de selección de cuatro empresas multinacionales y estoy entusiasmado por continuar mi desarrollo profesional y contribuir significativamente como miembro de su equipo.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">70,77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2693954898050041355" datatype="html">
+        <source>Programming Skills</source>
+        <target>habilidades de Programación</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">83,84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6997576736441690156" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>C++<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - I possess a strong command of C++ and have a deep understanding of its fundamentals and advanced concepts. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>C++<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Tengo un sólido dominio de C++ y una comprensión profunda de sus fundamentos y conceptos avanzados.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">86,88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8805205481562643382" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>C#<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - I have extensive expertise in C#.</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>C#<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Tengo amplia experiencia programando en C#. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">89,90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4394495592722913149" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>C<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Studied the basis of the language.</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>C<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - He estudiado los fundamentos del lenguaje.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">90,91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3311054015506582763" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>JavaScript<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Studied the basis of the language. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>JavaScript<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - He estudiado los fundamentos del lenguaje.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">92,94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1334960459024376575" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Angular<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Studied the language through online courses. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Angular<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - He estudiado el lenguaje mediante cursos online.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">95,97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4451917251177832592" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>.Net<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Knowledge of the .Net platform and experience working on it. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>.Net<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Conocimiento de la plataforma y experiencia tabajando con ella.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">98,100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3767719240990483349" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Docker<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Knowledge of Docker and application creation on it. on it. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Docker<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Conocimiento de la plataforma y creacion de aplicaciones en ella.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">102,104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7204295114505419550" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Microsoft Azure<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Knowledge of the platform and experience working on it. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Microsoft Azure<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Conocimiento de la plataforma y experiencia tabajando con ella.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">106,108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1362819185504853674" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>SQL<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Experience working on SQL databases</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>SQL<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Experiencia trabajando con bases de datos en SQL.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">109,110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2918747835876469489" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Unreal Engine 5 &amp; Unity<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - I have a strong foundation on both game engines. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Unreal Engine 5 &amp; Unity<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Tengo amplia experiencia tabajando con ambos motoros de juegos.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">111,113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4210044614987298156" datatype="html">
+        <source>Additional Skills</source>
+        <target>Habilidades Adicionales</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">119,120</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="368705286719791144" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b &gt;"/>Self Taught<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - I have a strong ability to be self-taught and learn independently, which can significantly benefit a job by enabling me to quickly adapt to new technologies and acquire the skills needed to excel in the role. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b &gt;"/>Autodidacta<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Tengo una gran capacidad para ser autodidacta y aprender de forma independiente, lo que puede beneficiar significativamente un trabajo al permitirme adaptarme rápidamente a nuevas tecnologías y adquirir las habilidades necesarias para sobresalir en el puesto.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">122,125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4422287503909549171" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Languages<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - I am a native Spanish speaker with a C2 level of English proficiency. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Idiomas<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Soy hablante nativo de español con un nivel C2 de dominio del inglés.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">128,130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8503041020290393292" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Travel<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - I am willing to travel for work or relocate as necessary to meet job requirements. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Viaje<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Estoy dispuesto a viajar por trabajo o reubicarme según sea necesario para cumplir con los requisitos del trabajo.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">132,134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="205776738198484895" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Teamwork<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - I have experience working in teams, where I actively contributed to brainstorming, problem-solving, and decision-making processes. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Trabajo en Equipo<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Tengo experiencia trabajando en equipo, donde contribuí activamente en procesos de lluvia de ideas, resolución de problemas y toma de decisiones.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">136,139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5571173611414257841" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Problem Solving<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - I am adept at approaching challenges with a critical and analytical mindset, quickly identifying issues and formulating effective solutions, whether working independently or as part of a team. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Solución de Problemas <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Soy experto en abordar desafíos con una mentalidad crítica y analítica, identificando rápidamente problemas y formulando soluciones efectivas, ya sea trabajando de forma independiente o como parte de un equipo.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">141,144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5695523380807379010" datatype="html">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Adaptability<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - My ability to remain flexible and open-minded allows me to learn new skills rapidly, embrace change, and pivot strategies when necessary. </source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Adaptabilidad <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> - Mi capacidad de mantenerme flexible y de mente abierta me permite aprender nuevas habilidades rápidamente, aceptar el cambio y cambiar de estrategia cuando es necesario.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">147,150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3030102525231729822" datatype="html">
+        <source><x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon class=&quot;align-middle&quot;&gt;"/> arrow_downward<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/> Download CV </source>
+        <target><x id="START_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;mat-icon class=&quot;align-middle&quot;&gt;"/> arrow_downward<x id="CLOSE_TAG_MAT_ICON" ctype="x-mat_icon" equiv-text="&lt;/mat-icon&gt;"/> Descargar CV  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/cv-page/cv-page.component.html</context>
+          <context context-type="linenumber">160,163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5536817899547820022" datatype="html">
+        <source>map</source>
+        <target>Aplicación de Mapas</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7805489349404758736" datatype="html">
+        <source>A small application showcasing MapLibre</source>
+        <target>Una pequeña aplicación mostrando las funcionalidades de MapLibre</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3322311952195475549" datatype="html">
+        <source>AuthApp Frontend</source>
+        <target>Frontend de AuthApp</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8065925707735785853" datatype="html">
+        <source>Frontend for an application involving autenticación</source>
+        <target>Frontend para una aplicación de autenticación</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3271579277117540373" datatype="html">
+        <source>AuthApp Nest Backend</source>
+        <target>Backend en Nest para AuthApp</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5701102498900858996" datatype="html">
+        <source>The backend for the AuthApp made on Nest</source>
+        <target>El backend para la aplicación de autenticación</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9105843839645114774" datatype="html">
+        <source>Heroes App</source>
+        <target>App de superhéroes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7665490667402030968" datatype="html">
+        <source>Application using a small dabatabase to show information for a wiki</source>
+        <target>Pequeña aplicación para mostrar información sobre superhéroes.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2178313503594598035" datatype="html">
+        <source>Counties App</source>
+        <target>Aplicación de Países</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2024480887890423110" datatype="html">
+        <source>A small application for searching and shorting countries arround the world using Restcountries API</source>
+        <target>Aplicaciónpara buscar información sobre países basada en la API de Restcountries</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1422632357755478851" datatype="html">
+        <source>Signals App</source>
+        <target>Aplicación de Señales</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5295797936020270023" datatype="html">
+        <source>An app made while learning the use of signals and directives</source>
+        <target>Aplicación creada para aprender el uso de señales y directivas en Angular</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2136114662365745933" datatype="html">
+        <source>Forms App</source>
+        <target>Aplicación de Formularios</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8429473645705281662" datatype="html">
+        <source>An app made while learning the use of forms in Angular</source>
+        <target>Aplicación creada para aprender el uso de formularios en Angular</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5072580114683123730" datatype="html">
+        <source>Pipes App</source>
+        <target>Aplicación de Pipes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6694637827710401625" datatype="html">
+        <source>An app made while learning the use of pipes in Angular</source>
+        <target>Aplicación creada para aprender el uso de pipes en Angular</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dashboard/pages/projects-page/projects-page.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
