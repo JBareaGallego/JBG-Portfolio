@@ -18,11 +18,11 @@ import {MatButtonModule} from '@angular/material/button';
 export default class DashboardComponent implements OnInit {
 
 
+
   ngOnInit(): void {
     console.log('Loaded')
   }
 
-
-
+  englishLanguage:boolean = true;
 
  }

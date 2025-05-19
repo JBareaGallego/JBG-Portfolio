@@ -1,8 +1,15 @@
 <div class="d-flex flex-column min-vh-100">
   <div class="mb-2">
     <mat-toolbar>
-      <button mat-button routerLink="resume" i18n>Resume</button>
-      <button mat-button routerLink="projects" i18n>Projects</button>
+      @if (englishLanguage) {
+        <button mat-button routerLink="en/resume" i18n>Resume</button>
+        <button mat-button routerLink="en/projects" i18n>Projects</button>
+      }
+      @else {
+        <button mat-button routerLink="es/resume" i18n>Curriculum</button>
+        <button mat-button routerLink="es/proyectos" i18n>Proyectos</button>
+      }
+
       <span class="spacer"></span>
       <section>
         <mat-button-toggle-group
@@ -11,10 +18,10 @@
           [hideSingleSelectionIndicator]="true"
           value="en"
         >
-          <mat-button-toggle value="en" routerLink="/en-US"
+          <mat-button-toggle value="en" routerLink="en/resume" (click)="englishLanguage = true"
             >English</mat-button-toggle
           >
-          <mat-button-toggle value="es" routerLink="/es"
+          <mat-button-toggle value="es" routerLink="es/resume" (click)="englishLanguage = false"
             >Español</mat-button-toggle
           >
         </mat-button-toggle-group>
