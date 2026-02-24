@@ -9,7 +9,7 @@ export const routes: Routes = [
       { path:'es/proyectos', loadComponent: ()=> import('./dashboard/pages/projects-page-Spanish/projects-page-spanish.component')},
       { path:'en/projects', loadComponent: ()=> import('./dashboard/pages/projects-page/projects-page.component') },
       { path:'en/resume', loadComponent: ()=> import('./dashboard/pages/cv-page/cv-page.component') },
-      { path: '', redirectTo: 'en/resume' , pathMatch: 'full' }
+      { path: '', redirectTo: 'en/projects' , pathMatch: 'full' }
     ]
   },
   { path:'', redirectTo:'/dashboard', pathMatch: 'full' },
